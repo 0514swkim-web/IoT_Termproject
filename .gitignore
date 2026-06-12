@@ -1,0 +1,10 @@
+*.pt
+photos/
+*.jpg
+*.jpeg
+*.png
+__pycache__/
+*.pyc
+credentials.json
+venv/
+env/
